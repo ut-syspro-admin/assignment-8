@@ -35,7 +35,7 @@ void lapic_periodic_exec(unsigned int msec, void *callback) {
 
   // Set LAPIC Periodic Timer
   //
-  // Here
+  // Here (8-c)
   //
 }
 

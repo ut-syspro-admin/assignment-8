@@ -2,7 +2,7 @@
 unsigned long long syscall_puts(char* str) {
   // Do puts
   //
-  // Here (9-A)
+  // Here (9-a)
   //
   return 0;
 }

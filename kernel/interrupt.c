@@ -19,7 +19,7 @@ void syscall_handler();
 static void load_idt_to_idtr() {
   // Set idtr
   //
-  // Here (9-A)
+  // Here (8-c)
   //
 }
 
@@ -36,12 +36,12 @@ void init_intr() {
 
   // Register Local APIC handler
   //
-  // Here (9-A)
+  // Here (8-c)
   //
 
   // Register Sycall handler
   //
-  // Here (10-A)
+  // Here (9-a)
   //
 
   // Tell CPU the location of IDT

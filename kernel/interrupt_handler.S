@@ -22,17 +22,17 @@ lapic_intr_handler:
 syscall_handler:
   // Save Registers
   //
-  // Here (10-A)
+  // Here (9-a)
   //
 
   // Call syscall_handler_internal
   //
-  // Here (10-A)
+  // Here (9-a)
   //
 
   // Resume
   //
-  // Here (10-A)
+  // Here (9-a)
   //
 
   iretq
