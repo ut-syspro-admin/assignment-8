@@ -29,5 +29,6 @@ popd > /dev/null 2>&1
 
 # auto save
 pushd $2 > /dev/null 2>&1
+git add . > /dev/null 2>&1
 git commit -am "auto: transferred from $1" > /dev/null 2>&1
 popd > /dev/null 2>&1
