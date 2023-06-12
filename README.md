@@ -1,6 +1,6 @@
-# Assignment: 7
+# Assignment: 8
 
-I/O.
+Polling & interrupt.
 
 ## Information
 
@@ -11,9 +11,9 @@ I/O.
 
 ## Assignment
 
-- Slide: [here](https://docs.google.com/presentation/d/1sF4_94DJ-_Y_7lnQ02IZwz1e6dNbXeciqdt4BOxyfYc/edit?usp=sharing) (ECCS email required) 
-- Date assigned: ***2023/06/05***
-- Date due: ***2023/06/19 23:59*** (tentative)
+- Slide: [here](https://docs.google.com/presentation/d/1EPkTTqkcLkjbuNf_-xIk0er0mPgzt69Xgrde2C-T-dg/edit?usp=sharing) (ECCS email required) 
+- Date assigned: ***2023/06/12***
+- Date due: ***2023/06/26 23:59*** (tentative)
 
 ## Notes
 
